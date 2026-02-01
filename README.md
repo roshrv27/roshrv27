@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @roshrv27
-- 👀 I’m interested in javascript, and Agnetic AI
+- 👀 I’m interested in javascript, integrating automation and Agnetic AI
 - 🌱 I’m currently working on upskilling myself in using AI Agents
 - 💞️ I’m looking to collaborate on integrating AI with Automation
 - 📫 Reach me @roshan.rv27@gmail.com
